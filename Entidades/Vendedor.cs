@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    //Clase Vendedor
     public class Vendedor : Persona
     {
         public string DNI { get; set; }

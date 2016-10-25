@@ -13,6 +13,7 @@ namespace Negocio
             return new List<Producto>();
         }
 
+        //Lista de Productos
         public List<Producto> Listar(string CUIT)
         {
             return new List<Producto>();
