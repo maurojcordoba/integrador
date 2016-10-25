@@ -1,2 +1,2 @@
-# integrador
+# Integrador
 Laboratorio Integrador C#
